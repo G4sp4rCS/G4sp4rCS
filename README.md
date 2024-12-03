@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 - eJPTv2 & eWPTv2 Certificate 
 
  [Check my website](https://grunt.ar/) //
- [Check my blog](https://igruntplay.github.io/)
+ [Check my blog](https://blog.grunt.ar/)
