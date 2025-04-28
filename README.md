@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 👨‍💻 I’m currently working in AppSec
 - ⚡I have a strong passion for offensive security and applied research in cybersecurity.
 
-- CPTS & eJPTv2 & eWPTv2 Certificate 
+- CPTS | PNPT | eJPTv2 & eWPTv2 Certificate 
 
  [Check my website](https://grunt.ar/) //
  [Check my blog](https://blog.grunt.ar/)
