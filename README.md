@@ -5,7 +5,7 @@
 
 ------
 
-Hi everyone! My name is Gaspar Onesto — I'm currently looking for remote roles in Offensive Security or AppSec.
+Hi everyone! My name is Gaspar Onesto — I'm currently looking for roles in Offensive Security or AppSec.
 - 🔭 I'm a grad student @ [DC-UBA](https://www.dc.uba.ar/).
 - 📍 Based in Buenos Aires, Argentina  🇦🇷 
 - 🎓 CS student with 3+ years of professional experience in Pentesting and Application Security
