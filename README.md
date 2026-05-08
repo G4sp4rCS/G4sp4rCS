@@ -9,7 +9,7 @@
 
 ## About me
 
-- **3+ years** of professional experience in **Pentesting** and **Application Security**.
+- **4+ years** of professional experience in **Pentesting** and **Application Security**.
 - Strong focus on **Web/AppSec**, **secure code review**, **SAST/DAST**, and **threat simulations** (Linux, Windows, cloud).
 - Deepening expertise in **Reverse Engineering**, **Binary Exploitation**, and **Malware Development**.
 - Currently working in **AppSec**.
