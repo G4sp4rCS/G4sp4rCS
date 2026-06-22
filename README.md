@@ -12,7 +12,7 @@
 - **4+ years** of professional experience in **Pentesting** and **Application Security**.
 - Strong focus on **Web/AppSec**, **secure code review**, **SAST/DAST**, and **threat simulations** (Linux, Windows, cloud).
 - Deepening expertise in **Reverse Engineering**, **Binary Exploitation**, and **Malware Development**.
-- Currently working in **AppSec**.
+- Currently working in **Security Research**.
 - CS background [DC-UBA](https://www.dc.uba.ar/).
 
 ---
